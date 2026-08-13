@@ -1,0 +1,218 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[VeRi-776",
+          "description": "] A Deep Learning-Based Approach to Progressive Vehicle Re-identification for Urban Surveillance (ECCV 2016) [paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2022-07-07T06:53:15Z",
+            "owner": "JDAI-CV",
+            "repo": "VeRidataset",
+            "stars": 423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[VERI-Wild",
+          "description": "] A Large Dataset and a New Method for Vehicle Re-Identification in the Wild (CVPR 2019) [paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-08-09T08:03:32Z",
+            "owner": "PKU-IMRE",
+            "repo": "VERI-Wild",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[VehicleX",
+          "description": "] PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Highly Randomized Synthetic Data (ICCV 2019) [paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-15T06:28:01Z",
+            "owner": "yorkeyao",
+            "repo": "VehicleX",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[VehicleX",
+          "description": "] Simulating Content Consistent Vehicle Datasets with Attribute Descent (ECCV 2020) [paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-15T06:28:01Z",
+            "owner": "yorkeyao",
+            "repo": "VehicleX",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[PKU-Vehicle",
+          "description": "] Group-Sensitive Triplet Embedding for Vehicle Reidentification (TMM 2018) [paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-07-23T06:27:48Z",
+            "owner": "PKU-IMRE",
+            "repo": "PKU-Vehicles",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "1. Dataset and benchmark"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vehicle Re-identification: exploring feature fusion using multi-stream convolutional networks [paper",
+          "description": "] [github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-09T15:33:51Z",
+            "owner": "icarofua",
+            "repo": "vehicle-rear",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Attributes Guided Feature Learning for Vehicle Re-identification [paper",
+          "description": "] [github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-07-23T06:57:14Z",
+            "owner": "oneysmall",
+            "repo": "CVTC",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "5. ArXiv"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/Jakel21/vehicle-ReID-baseline",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-08-12T03:13:33Z",
+            "owner": "Jakel21",
+            "repo": "vehicle-ReID-baseline",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/NVIDIAAICITYCHALLENGE/2018AICITY_Beihang",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-28T10:34:52Z",
+            "owner": "NVIDIAAICITYCHALLENGE",
+            "repo": "2018AICITY_Beihang",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "8. Others (code)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/bismex/Awesome-person-re-identification",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-18T00:18:05Z",
+            "owner": "bismex",
+            "repo": "Awesome-person-re-identification",
+            "stars": 1360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/layumi/Vehicle_reID-Collection",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-03-13T04:53:17Z",
+            "owner": "layumi",
+            "repo": "Vehicle_reID-Collection",
+            "stars": 514
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/VehicleReId/VeRidataset",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2022-07-07T06:53:15Z",
+            "owner": "JDAI-CV",
+            "repo": "VeRidataset",
+            "stars": 423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/knwng/awesome-vehicle-re-identification",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-07-28T09:34:09Z",
+            "owner": "knwng",
+            "repo": "awesome-vehicle-re-identification",
+            "stars": 421
+          }
+        }
+      ],
+      "title": "Reference"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:02:03.830Z",
+    "original_repository": "bismex/Awesome-vehicle-re-identification",
+    "original_repository_sha": "917efccb9d140cdfe87745fa2bbe1ec9d89eee5a",
+    "enhanced_repository": "enhansome/enhansome-Awesome-vehicle-re-identification",
+    "enhanced_repository_description": null,
+    "title": "Awesome Vehicle Re-identification with stars"
+  }
+}
