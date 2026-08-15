@@ -14,7 +14,7 @@
             "last_commit": "2022-07-07T06:53:15Z",
             "owner": "JDAI-CV",
             "repo": "VeRidataset",
-            "stars": 423
+            "stars": 424
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2022-07-07T06:53:15Z",
             "owner": "JDAI-CV",
             "repo": "VeRidataset",
-            "stars": 423
+            "stars": 424
           }
         },
         {
@@ -208,7 +208,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T16:35:43.336Z",
+    "last_updated": "2026-08-15T15:58:46.526Z",
     "original_repository": "bismex/Awesome-vehicle-re-identification",
     "original_repository_sha": "917efccb9d140cdfe87745fa2bbe1ec9d89eee5a",
     "enhanced_repository": "enhansome/enhansome-Awesome-vehicle-re-identification",

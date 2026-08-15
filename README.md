@@ -18,7 +18,7 @@ This is a repository for organizing articles related to person re-identification
 
 ## 1. Dataset and benchmark
 
-* \[[VeRi-776](https://github.com/VehicleReId/VeRidataset) ⭐ 423 | 🐛 3 | 🌐 MATLAB | 📅 2022-07-07] A Deep Learning-Based Approach to Progressive Vehicle Re-identification for Urban Surveillance (ECCV 2016) \[[paper](https://link.springer.com/chapter/10.1007/978-3-319-46475-6_53)]
+* \[[VeRi-776](https://github.com/VehicleReId/VeRidataset) ⭐ 424 | 🐛 3 | 🌐 MATLAB | 📅 2022-07-07] A Deep Learning-Based Approach to Progressive Vehicle Re-identification for Urban Surveillance (ECCV 2016) \[[paper](https://link.springer.com/chapter/10.1007/978-3-319-46475-6_53)]
 * \[[VERI-Wild](https://github.com/PKU-IMRE/VERI-Wild) ⭐ 230 | 🐛 7 | 📅 2021-08-09] A Large Dataset and a New Method for
   Vehicle Re-Identification in the Wild (CVPR 2019) \[[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lou_VERI-Wild_A_Large_Dataset_and_a_New_Method_for_Vehicle_CVPR_2019_paper.pdf)]
 * \[[VehicleX](https://github.com/yorkeyao/VehicleX) ⭐ 168 | 🐛 8 | 🌐 Python | 📅 2023-11-15] PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Highly Randomized Synthetic Data (ICCV 2019) \[[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Tang_PAMTRI_Pose-Aware_Multi-Task_Learning_for_Vehicle_Re-Identification_Using_Highly_Randomized_ICCV_2019_paper.pdf)]
@@ -201,9 +201,9 @@ This is a repository for organizing articles related to person re-identification
 
 * <https://github.com/bismex/Awesome-person-re-identification> ⭐ 1,360 | 🐛 2 | 📅 2024-06-18
 * <https://github.com/layumi/Vehicle_reID-Collection> ⭐ 514 | 🐛 2 | 📅 2025-03-13
-* <https://github.com/VehicleReId/VeRidataset> ⭐ 423 | 🐛 3 | 🌐 MATLAB | 📅 2022-07-07
+* <https://github.com/VehicleReId/VeRidataset> ⭐ 424 | 🐛 3 | 🌐 MATLAB | 📅 2022-07-07
 * <https://github.com/knwng/awesome-vehicle-re-identification> ⭐ 421 | 🐛 3 | 📅 2019-07-28
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
