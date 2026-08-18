@@ -5,7 +5,7 @@ This is a repository for organizing articles related to person re-identification
 **Other awesome re-identification**
 
 * [Awesome Person Re-Identification](https://github.com/bismex/Awesome-person-re-identification) ⭐ 1,360 | 🐛 2 | 📅 2024-06-18
-* [Awesome Cross-Modality Person Re-Identification](https://github.com/bismex/Awesome-cross-modality-person-re-identification) ⭐ 153 | 🐛 1 | 📅 2022-07-14
+* [Awesome Cross-Modality Person Re-Identification](https://github.com/bismex/Awesome-cross-modality-person-re-identification) ⭐ 154 | 🐛 1 | 📅 2022-07-14
 
 **People who meet the following criteria are free to request a pull (pull request).**
 
@@ -206,4 +206,4 @@ This is a repository for organizing articles related to person re-identification
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
