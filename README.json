@@ -491,7 +491,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/Jakel21/vehicle-ReID-baseline",
+          "title": "Jakel21/vehicle-ReID-baseline",
           "description": null,
           "children": [],
           "repo_info": {
@@ -506,7 +506,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/NVIDIAAICITYCHALLENGE/2018AICITY_Beihang",
+          "title": "NVIDIAAICITYCHALLENGE/2018AICITY_Beihang",
           "description": null,
           "children": [],
           "repo_info": {
@@ -527,7 +527,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/bismex/Awesome-person-re-identification",
+          "title": "bismex/Awesome-person-re-identification",
           "description": null,
           "children": [],
           "repo_info": {
@@ -542,7 +542,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/layumi/Vehicle_reID-Collection",
+          "title": "layumi/Vehicle_reID-Collection",
           "description": null,
           "children": [],
           "repo_info": {
@@ -557,7 +557,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/VehicleReId/VeRidataset",
+          "title": "JDAI-CV/VeRidataset",
           "description": null,
           "children": [],
           "repo_info": {
@@ -572,7 +572,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/knwng/awesome-vehicle-re-identification",
+          "title": "knwng/awesome-vehicle-re-identification",
           "description": null,
           "children": [],
           "repo_info": {
@@ -590,7 +590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T16:16:46.752Z",
+    "last_updated": "2026-08-25T06:32:34.272Z",
     "original_repository": "bismex/Awesome-vehicle-re-identification",
     "original_repository_id": 249192342,
     "original_repository_sha": "917efccb9d140cdfe87745fa2bbe1ec9d89eee5a",
