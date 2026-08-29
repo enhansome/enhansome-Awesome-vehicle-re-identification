@@ -15,8 +15,9 @@
             "last_commit": "2024-06-18T00:18:05Z",
             "owner": "bismex",
             "repo": "Awesome-person-re-identification",
-            "stars": 1361
-          }
+            "stars": 1362
+          },
+          "first_seen": "2026-08-29T00:08:42.829Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "bismex",
             "repo": "Awesome-cross-modality-person-re-identification",
             "stars": 154
-          }
+          },
+          "first_seen": "2026-08-29T00:08:42.829Z"
         }
       ],
       "title": "Overview"
@@ -52,7 +54,8 @@
             "owner": "JDAI-CV",
             "repo": "VeRidataset",
             "stars": 425
-          }
+          },
+          "first_seen": "2026-08-29T00:08:42.829Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "PKU-IMRE",
             "repo": "VERI-Wild",
             "stars": 230
-          }
+          },
+          "first_seen": "2026-08-29T00:08:42.829Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "yorkeyao",
             "repo": "VehicleX",
             "stars": 168
-          }
+          },
+          "first_seen": "2026-08-29T00:08:42.829Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "yorkeyao",
             "repo": "VehicleX",
             "stars": 168
-          }
+          },
+          "first_seen": "2026-08-29T00:08:42.829Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "PKU-IMRE",
             "repo": "PKU-Vehicles",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T00:08:42.829Z"
         }
       ],
       "title": "1. Dataset and benchmark"
@@ -132,8 +139,9 @@
             "last_commit": "2017-12-05T01:48:59Z",
             "owner": "Zhongdao",
             "repo": "VehicleReIDKeyPointData",
-            "stars": 178
-          }
+            "stars": 179
+          },
+          "first_seen": "2026-08-29T00:08:42.829Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "liu-xb",
             "repo": "RAM",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-29T00:08:42.829Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "csyizhou",
             "repo": "Vehicle-Re-ID",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T00:08:42.829Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "Pirazh",
             "repo": "Vehicle_Key_Point_Orientation_Estimation",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-29T00:08:42.829Z"
         }
       ],
       "title": "2. Conference"
@@ -204,7 +215,8 @@
                 "owner": "zhengthomastang",
                 "repo": "2018AICity_TeamUW",
                 "stars": 555
-              }
+              },
+              "first_seen": "2026-08-29T00:08:42.829Z"
             },
             {
               "node_type": "item",
@@ -219,7 +231,8 @@
                 "owner": "cw1204772",
                 "repo": "AIC2018_iamai",
                 "stars": 177
-              }
+              },
+              "first_seen": "2026-08-29T00:08:42.829Z"
             },
             {
               "node_type": "item",
@@ -234,7 +247,8 @@
                 "owner": "NVIDIAAICITYCHALLENGE",
                 "repo": "2018AICITY_LasPalmas",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T00:08:42.829Z"
             }
           ]
         },
@@ -256,7 +270,8 @@
                 "owner": "wzgwzg",
                 "repo": "AICity",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-29T00:08:42.829Z"
             },
             {
               "node_type": "item",
@@ -271,7 +286,8 @@
                 "owner": "ipl-uw",
                 "repo": "2019-CVPR-AIC-Track-2-UWIPL",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T00:08:42.829Z"
             },
             {
               "node_type": "item",
@@ -286,7 +302,8 @@
                 "owner": "Simon4Yan",
                 "repo": "feature_learning",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T00:08:42.829Z"
             },
             {
               "node_type": "item",
@@ -301,7 +318,8 @@
                 "owner": "he010103",
                 "repo": "Traffic-Brain",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-29T00:08:42.829Z"
             },
             {
               "node_type": "item",
@@ -316,7 +334,8 @@
                 "owner": "yrims",
                 "repo": "AIC19",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T00:08:42.829Z"
             },
             {
               "node_type": "item",
@@ -331,7 +350,8 @@
                 "owner": "mint44",
                 "repo": "ai19_track2_hcmus",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:08:42.829Z"
             }
           ]
         },
@@ -353,7 +373,8 @@
                 "owner": "layumi",
                 "repo": "AICIty-reID-2020",
                 "stars": 463
-              }
+              },
+              "first_seen": "2026-08-29T00:08:42.829Z"
             },
             {
               "node_type": "item",
@@ -368,7 +389,8 @@
                 "owner": "heshuting555",
                 "repo": "AICITY2020_DMT_VehicleReID",
                 "stars": 221
-              }
+              },
+              "first_seen": "2026-08-29T00:08:42.829Z"
             },
             {
               "node_type": "item",
@@ -383,7 +405,8 @@
                 "owner": "Xiangyu-CAS",
                 "repo": "AICity2020-VOC-ReID",
                 "stars": 114
-              }
+              },
+              "first_seen": "2026-08-29T00:08:42.829Z"
             },
             {
               "node_type": "item",
@@ -398,7 +421,8 @@
                 "owner": "gggcy",
                 "repo": "AIC2020_ReID",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-29T00:08:42.829Z"
             },
             {
               "node_type": "item",
@@ -413,7 +437,8 @@
                 "owner": "selab-hcmus",
                 "repo": "AI_City_2020",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-29T00:08:42.829Z"
             },
             {
               "node_type": "item",
@@ -428,7 +453,8 @@
                 "owner": "zgcr",
                 "repo": "AICITY2020_track2_reid_BeBetter",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T00:08:42.829Z"
             },
             {
               "node_type": "item",
@@ -443,7 +469,8 @@
                 "owner": "corner100",
                 "repo": "2020-aicitychallenge-IOSB-VeRi",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:08:42.829Z"
             }
           ]
         }
@@ -466,7 +493,8 @@
             "owner": "icarofua",
             "repo": "vehicle-rear",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-29T00:08:42.829Z"
         },
         {
           "node_type": "item",
@@ -481,7 +509,8 @@
             "owner": "oneysmall",
             "repo": "CVTC",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:08:42.829Z"
         }
       ],
       "title": "5. ArXiv"
@@ -502,7 +531,8 @@
             "owner": "Jakel21",
             "repo": "vehicle-ReID-baseline",
             "stars": 147
-          }
+          },
+          "first_seen": "2026-08-29T00:08:42.829Z"
         },
         {
           "node_type": "item",
@@ -517,7 +547,8 @@
             "owner": "NVIDIAAICITYCHALLENGE",
             "repo": "2018AICITY_Beihang",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:08:42.829Z"
         }
       ],
       "title": "8. Others (code)"
@@ -537,8 +568,9 @@
             "last_commit": "2024-06-18T00:18:05Z",
             "owner": "bismex",
             "repo": "Awesome-person-re-identification",
-            "stars": 1361
-          }
+            "stars": 1362
+          },
+          "first_seen": "2026-08-29T00:08:42.829Z"
         },
         {
           "node_type": "item",
@@ -553,7 +585,8 @@
             "owner": "layumi",
             "repo": "Vehicle_reID-Collection",
             "stars": 513
-          }
+          },
+          "first_seen": "2026-08-29T00:08:42.829Z"
         },
         {
           "node_type": "item",
@@ -568,7 +601,8 @@
             "owner": "JDAI-CV",
             "repo": "VeRidataset",
             "stars": 425
-          }
+          },
+          "first_seen": "2026-08-29T00:08:42.829Z"
         },
         {
           "node_type": "item",
@@ -583,14 +617,15 @@
             "owner": "knwng",
             "repo": "awesome-vehicle-re-identification",
             "stars": 421
-          }
+          },
+          "first_seen": "2026-08-29T00:08:42.829Z"
         }
       ],
       "title": "Reference"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:37:17.495Z",
+    "last_updated": "2026-08-29T00:08:42.829Z",
     "original_repository_info": {
       "archived": false,
       "id": 249192342,

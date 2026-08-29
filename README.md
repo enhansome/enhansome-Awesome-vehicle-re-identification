@@ -4,7 +4,7 @@ This is a repository for organizing articles related to person re-identification
 
 **Other awesome re-identification**
 
-* [Awesome Person Re-Identification](https://github.com/bismex/Awesome-person-re-identification) ⭐ 1,361 | 🐛 2 | 📅 2024-06-18
+* [Awesome Person Re-Identification](https://github.com/bismex/Awesome-person-re-identification) ⭐ 1,362 | 🐛 2 | 📅 2024-06-18
 * [Awesome Cross-Modality Person Re-Identification](https://github.com/bismex/Awesome-cross-modality-person-re-identification) ⭐ 154 | 🐛 1 | 📅 2022-07-14
 
 **People who meet the following criteria are free to request a pull (pull request).**
@@ -46,7 +46,7 @@ This is a repository for organizing articles related to person re-identification
 
 **2017**
 
-* Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-Identification (ICCV 2017) \[[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Orientation_Invariant_Feature_ICCV_2017_paper.pdf)] \[[github](https://github.com/Zhongdao/VehicleReIDKeyPointData) ⭐ 178 | 🐛 3 | 🌐 Python | 📅 2017-12-05]
+* Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-Identification (ICCV 2017) \[[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Orientation_Invariant_Feature_ICCV_2017_paper.pdf)] \[[github](https://github.com/Zhongdao/VehicleReIDKeyPointData) ⭐ 179 | 🐛 3 | 🌐 Python | 📅 2017-12-05]
 * Vehicle Re-identification by Fusing Multiple Deep Neural Networks (IPTA 2017) \[[paper](https://ieeexplore.ieee.org/document/8310090)]
 * Beyond Human-level License Plate Super-resolution with Progressive Vehicle Search and Domain Priori GAN (ACMMM 2017) \[[paper](https://dl.acm.org/doi/10.1145/3123266.3123422)]
 * Multi-modal Metric Learning for Vehicle Re-identification in Traffic Surveillance Environment (ICIP 2017) \[[paper](https://ieeexplore.ieee.org/abstract/document/8296683)]
@@ -199,11 +199,11 @@ This is a repository for organizing articles related to person re-identification
 
 ## Reference
 
-* <https://github.com/bismex/Awesome-person-re-identification> ⭐ 1,361 | 🐛 2 | 📅 2024-06-18
+* <https://github.com/bismex/Awesome-person-re-identification> ⭐ 1,362 | 🐛 2 | 📅 2024-06-18
 * <https://github.com/layumi/Vehicle_reID-Collection> ⭐ 513 | 🐛 2 | 📅 2025-03-13
 * <https://github.com/VehicleReId/VeRidataset> ⭐ 425 | 🐛 3 | 🌐 MATLAB | 📅 2022-07-07
 * <https://github.com/knwng/awesome-vehicle-re-identification> ⭐ 421 | 🐛 3 | 📅 2019-07-28
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
