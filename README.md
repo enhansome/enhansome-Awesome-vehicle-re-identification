@@ -21,8 +21,8 @@ This is a repository for organizing articles related to person re-identification
 * \[[VeRi-776](https://github.com/VehicleReId/VeRidataset) ⭐ 425 | 🐛 3 | 🌐 MATLAB | 📅 2022-07-07] A Deep Learning-Based Approach to Progressive Vehicle Re-identification for Urban Surveillance (ECCV 2016) \[[paper](https://link.springer.com/chapter/10.1007/978-3-319-46475-6_53)]
 * \[[VERI-Wild](https://github.com/PKU-IMRE/VERI-Wild) ⭐ 230 | 🐛 7 | 📅 2021-08-09] A Large Dataset and a New Method for
   Vehicle Re-Identification in the Wild (CVPR 2019) \[[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lou_VERI-Wild_A_Large_Dataset_and_a_New_Method_for_Vehicle_CVPR_2019_paper.pdf)]
-* \[[VehicleX](https://github.com/yorkeyao/VehicleX) ⭐ 168 | 🐛 8 | 🌐 Python | 📅 2023-11-15] PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Highly Randomized Synthetic Data (ICCV 2019) \[[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Tang_PAMTRI_Pose-Aware_Multi-Task_Learning_for_Vehicle_Re-Identification_Using_Highly_Randomized_ICCV_2019_paper.pdf)]
-* \[[VehicleX](https://github.com/yorkeyao/VehicleX) ⭐ 168 | 🐛 8 | 🌐 Python | 📅 2023-11-15] Simulating Content Consistent Vehicle Datasets with Attribute Descent (ECCV 2020) \[[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510766.pdf)]
+* \[[VehicleX](https://github.com/yorkeyao/VehicleX) ⭐ 169 | 🐛 8 | 🌐 Python | 📅 2023-11-15] PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Highly Randomized Synthetic Data (ICCV 2019) \[[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Tang_PAMTRI_Pose-Aware_Multi-Task_Learning_for_Vehicle_Re-Identification_Using_Highly_Randomized_ICCV_2019_paper.pdf)]
+* \[[VehicleX](https://github.com/yorkeyao/VehicleX) ⭐ 169 | 🐛 8 | 🌐 Python | 📅 2023-11-15] Simulating Content Consistent Vehicle Datasets with Attribute Descent (ECCV 2020) \[[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510766.pdf)]
 * \[[PKU-Vehicle](https://github.com/PKU-IMRE/PKU-Vehicles) ⭐ 10 | 🐛 2 | 📅 2019-07-23] Group-Sensitive Triplet Embedding for Vehicle Reidentification (TMM 2018) \[[paper](https://ieeexplore.ieee.org/abstract/document/8265213)]
 * \[[StanfordCars](http://ai.stanford.edu/~jkrause/cars/car_dataset.html)] 3D Object Representations for Fine-Grained Categorization (ICCV 2013) \[[paper](http://ai.stanford.edu/~jkrause/papers/3drr13.pdf)]
 * \[[CompCars](http://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/index.html)] A Large-Scale Car Dataset for Fine-Grained Categorization and Verification (CVPR 2015) \[[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Yang_A_Large-Scale_Car_2015_CVPR_paper.pdf)]
@@ -206,4 +206,4 @@ This is a repository for organizing articles related to person re-identification
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._

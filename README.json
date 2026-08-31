@@ -146,7 +146,7 @@
             "open_issues": 8,
             "owner": "yorkeyao",
             "repo": "VehicleX",
-            "stars": 168,
+            "stars": 169,
             "topics": [
               "cityflow",
               "re-identification",
@@ -175,7 +175,7 @@
             "open_issues": 8,
             "owner": "yorkeyao",
             "repo": "VehicleX",
-            "stars": 168,
+            "stars": 169,
             "topics": [
               "cityflow",
               "re-identification",
@@ -927,7 +927,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:49:25.563Z",
+    "last_updated": "2026-08-31T21:06:25.733Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Vehicle Re-identification",
