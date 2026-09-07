@@ -917,7 +917,7 @@
             "open_issues": 3,
             "owner": "knwng",
             "repo": "awesome-vehicle-re-identification",
-            "stars": 421,
+            "stars": 420,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:42.829Z"
@@ -927,7 +927,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T17:44:05.832Z",
+    "last_updated": "2026-09-07T19:23:46.636Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Vehicle Re-identification",
