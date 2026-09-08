@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "bismex",
             "repo": "Awesome-person-re-identification",
-            "stars": 1362,
+            "stars": 1361,
             "topics": [
               "awesome",
               "awesome-list",
@@ -104,7 +104,7 @@
             "open_issues": 3,
             "owner": "JDAI-CV",
             "repo": "VeRidataset",
-            "stars": 425,
+            "stars": 424,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:42.829Z"
@@ -824,7 +824,7 @@
             "open_issues": 2,
             "owner": "bismex",
             "repo": "Awesome-person-re-identification",
-            "stars": 1362,
+            "stars": 1361,
             "topics": [
               "awesome",
               "awesome-list",
@@ -863,7 +863,7 @@
             "open_issues": 2,
             "owner": "layumi",
             "repo": "Vehicle_reID-Collection",
-            "stars": 513,
+            "stars": 512,
             "topics": [
               "awesome",
               "awesome-list",
@@ -896,7 +896,7 @@
             "open_issues": 3,
             "owner": "JDAI-CV",
             "repo": "VeRidataset",
-            "stars": 425,
+            "stars": 424,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:42.829Z"
@@ -917,7 +917,7 @@
             "open_issues": 3,
             "owner": "knwng",
             "repo": "awesome-vehicle-re-identification",
-            "stars": 420,
+            "stars": 419,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:42.829Z"
@@ -927,7 +927,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T19:23:46.636Z",
+    "last_updated": "2026-09-08T18:59:21.439Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Vehicle Re-identification",
@@ -939,7 +939,7 @@
       "open_issues": 0,
       "owner": "bismex",
       "repo": "Awesome-vehicle-re-identification",
-      "stars": 162,
+      "stars": 161,
       "topics": [
         "awesome",
         "awesome-list",
