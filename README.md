@@ -4,8 +4,8 @@ This is a repository for organizing articles related to person re-identification
 
 **Other awesome re-identification**
 
-* [Awesome Person Re-Identification](https://github.com/bismex/Awesome-person-re-identification) ⭐ 1,361 | 🐛 2 | 📅 2024-06-18
-* [Awesome Cross-Modality Person Re-Identification](https://github.com/bismex/Awesome-cross-modality-person-re-identification) ⭐ 154 | 🐛 1 | 📅 2022-07-14
+* [Awesome Person Re-Identification](https://github.com/bismex/Awesome-person-re-identification) ⭐ 1,362 | 🐛 2 | 📅 2024-06-18
+* [Awesome Cross-Modality Person Re-Identification](https://github.com/bismex/Awesome-cross-modality-person-re-identification) ⭐ 155 | 🐛 1 | 📅 2022-07-14
 
 **People who meet the following criteria are free to request a pull (pull request).**
 
@@ -199,11 +199,11 @@ This is a repository for organizing articles related to person re-identification
 
 ## Reference
 
-* <https://github.com/bismex/Awesome-person-re-identification> ⭐ 1,361 | 🐛 2 | 📅 2024-06-18
+* <https://github.com/bismex/Awesome-person-re-identification> ⭐ 1,362 | 🐛 2 | 📅 2024-06-18
 * <https://github.com/layumi/Vehicle_reID-Collection> ⭐ 512 | 🐛 2 | 📅 2025-03-13
 * <https://github.com/VehicleReId/VeRidataset> ⭐ 424 | 🐛 3 | 🌐 MATLAB | 📅 2022-07-07
 * <https://github.com/knwng/awesome-vehicle-re-identification> ⭐ 419 | 🐛 3 | 📅 2019-07-28
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._

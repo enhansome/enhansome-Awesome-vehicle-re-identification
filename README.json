@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "bismex",
             "repo": "Awesome-person-re-identification",
-            "stars": 1361,
+            "stars": 1362,
             "topics": [
               "awesome",
               "awesome-list",
@@ -58,7 +58,7 @@
             "open_issues": 1,
             "owner": "bismex",
             "repo": "Awesome-cross-modality-person-re-identification",
-            "stars": 154,
+            "stars": 155,
             "topics": [
               "awesome",
               "awesome-list",
@@ -824,7 +824,7 @@
             "open_issues": 2,
             "owner": "bismex",
             "repo": "Awesome-person-re-identification",
-            "stars": 1361,
+            "stars": 1362,
             "topics": [
               "awesome",
               "awesome-list",
@@ -927,7 +927,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T18:59:21.439Z",
+    "last_updated": "2026-09-09T18:52:01.949Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Vehicle Re-identification",
@@ -939,7 +939,7 @@
       "open_issues": 0,
       "owner": "bismex",
       "repo": "Awesome-vehicle-re-identification",
-      "stars": 161,
+      "stars": 162,
       "topics": [
         "awesome",
         "awesome-list",
