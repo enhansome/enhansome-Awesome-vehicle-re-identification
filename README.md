@@ -4,7 +4,7 @@ This is a repository for organizing articles related to person re-identification
 
 **Other awesome re-identification**
 
-* [Awesome Person Re-Identification](https://github.com/bismex/Awesome-person-re-identification) ⭐ 1,362 | 🐛 2 | 📅 2024-06-18
+* [Awesome Person Re-Identification](https://github.com/bismex/Awesome-person-re-identification) ⭐ 1,363 | 🐛 2 | 📅 2024-06-18
 * [Awesome Cross-Modality Person Re-Identification](https://github.com/bismex/Awesome-cross-modality-person-re-identification) ⭐ 155 | 🐛 1 | 📅 2022-07-14
 
 **People who meet the following criteria are free to request a pull (pull request).**
@@ -18,8 +18,8 @@ This is a repository for organizing articles related to person re-identification
 
 ## 1. Dataset and benchmark
 
-* \[[VeRi-776](https://github.com/VehicleReId/VeRidataset) ⭐ 424 | 🐛 3 | 🌐 MATLAB | 📅 2022-07-07] A Deep Learning-Based Approach to Progressive Vehicle Re-identification for Urban Surveillance (ECCV 2016) \[[paper](https://link.springer.com/chapter/10.1007/978-3-319-46475-6_53)]
-* \[[VERI-Wild](https://github.com/PKU-IMRE/VERI-Wild) ⭐ 230 | 🐛 7 | 📅 2021-08-09] A Large Dataset and a New Method for
+* \[[VeRi-776](https://github.com/VehicleReId/VeRidataset) ⭐ 425 | 🐛 3 | 🌐 MATLAB | 📅 2022-07-07] A Deep Learning-Based Approach to Progressive Vehicle Re-identification for Urban Surveillance (ECCV 2016) \[[paper](https://link.springer.com/chapter/10.1007/978-3-319-46475-6_53)]
+* \[[VERI-Wild](https://github.com/PKU-IMRE/VERI-Wild) ⭐ 231 | 🐛 7 | 📅 2021-08-09] A Large Dataset and a New Method for
   Vehicle Re-Identification in the Wild (CVPR 2019) \[[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lou_VERI-Wild_A_Large_Dataset_and_a_New_Method_for_Vehicle_CVPR_2019_paper.pdf)]
 * \[[VehicleX](https://github.com/yorkeyao/VehicleX) ⭐ 169 | 🐛 8 | 🌐 Python | 📅 2023-11-15] PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Highly Randomized Synthetic Data (ICCV 2019) \[[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Tang_PAMTRI_Pose-Aware_Multi-Task_Learning_for_Vehicle_Re-Identification_Using_Highly_Randomized_ICCV_2019_paper.pdf)]
 * \[[VehicleX](https://github.com/yorkeyao/VehicleX) ⭐ 169 | 🐛 8 | 🌐 Python | 📅 2023-11-15] Simulating Content Consistent Vehicle Datasets with Attribute Descent (ECCV 2020) \[[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510766.pdf)]
@@ -164,7 +164,7 @@ This is a repository for organizing articles related to person re-identification
 
 ## 5. ArXiv
 
-* Vehicle Re-identification: exploring feature fusion using multi-stream convolutional networks \[[paper](https://arxiv.org/pdf/1911.05541.pdf)] \[[github](https://github.com/icarofua/vehicle-ReId) ⭐ 118 | 🐛 1 | 🌐 Python | 📅 2021-08-09]
+* Vehicle Re-identification: exploring feature fusion using multi-stream convolutional networks \[[paper](https://arxiv.org/pdf/1911.05541.pdf)] \[[github](https://github.com/icarofua/vehicle-ReId) ⭐ 119 | 🐛 1 | 🌐 Python | 📅 2021-08-09]
 * Attributes Guided Feature Learning for Vehicle Re-identification \[[paper](https://arxiv.org/pdf/1905.08997.pdf)] \[[github](https://github.com/oneysmall/CVTC) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2019-07-23]
 * Vehicle Re-Identification: an Efficient Baseline Using Triplet Embedding \[[paper](https://arxiv.org/pdf/1901.01015.pdf)]
 * Stripe-based and Attribute-aware Network: A Two-Branch Deep Model for Vehicle Re-identification \[[paper](https://arxiv.org/pdf/1910.05549.pdf)]
@@ -199,11 +199,11 @@ This is a repository for organizing articles related to person re-identification
 
 ## Reference
 
-* <https://github.com/bismex/Awesome-person-re-identification> ⭐ 1,362 | 🐛 2 | 📅 2024-06-18
+* <https://github.com/bismex/Awesome-person-re-identification> ⭐ 1,363 | 🐛 2 | 📅 2024-06-18
 * <https://github.com/layumi/Vehicle_reID-Collection> ⭐ 512 | 🐛 2 | 📅 2025-03-13
-* <https://github.com/VehicleReId/VeRidataset> ⭐ 424 | 🐛 3 | 🌐 MATLAB | 📅 2022-07-07
+* <https://github.com/VehicleReId/VeRidataset> ⭐ 425 | 🐛 3 | 🌐 MATLAB | 📅 2022-07-07
 * <https://github.com/knwng/awesome-vehicle-re-identification> ⭐ 419 | 🐛 3 | 📅 2019-07-28
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._

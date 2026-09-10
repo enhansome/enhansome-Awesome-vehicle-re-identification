@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "bismex",
             "repo": "Awesome-person-re-identification",
-            "stars": 1362,
+            "stars": 1363,
             "topics": [
               "awesome",
               "awesome-list",
@@ -104,7 +104,7 @@
             "open_issues": 3,
             "owner": "JDAI-CV",
             "repo": "VeRidataset",
-            "stars": 424,
+            "stars": 425,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:42.829Z"
@@ -125,7 +125,7 @@
             "open_issues": 7,
             "owner": "PKU-IMRE",
             "repo": "VERI-Wild",
-            "stars": 230,
+            "stars": 231,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:42.829Z"
@@ -718,7 +718,7 @@
             "open_issues": 1,
             "owner": "icarofua",
             "repo": "vehicle-rear",
-            "stars": 118,
+            "stars": 119,
             "topics": [
               "darknet",
               "keras",
@@ -824,7 +824,7 @@
             "open_issues": 2,
             "owner": "bismex",
             "repo": "Awesome-person-re-identification",
-            "stars": 1362,
+            "stars": 1363,
             "topics": [
               "awesome",
               "awesome-list",
@@ -896,7 +896,7 @@
             "open_issues": 3,
             "owner": "JDAI-CV",
             "repo": "VeRidataset",
-            "stars": 424,
+            "stars": 425,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:42.829Z"
@@ -927,7 +927,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T18:52:01.949Z",
+    "last_updated": "2026-09-10T18:41:38.417Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Vehicle Re-identification",
