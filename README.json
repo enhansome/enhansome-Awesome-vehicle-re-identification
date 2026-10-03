@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Awesome Person Re-Identification",
-          "description": null,
+          "description": "bismex/Awesome-person-re-identification",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -45,7 +45,7 @@
         {
           "node_type": "item",
           "title": "Awesome Cross-Modality Person Re-Identification",
-          "description": null,
+          "description": "bismex/Awesome-cross-modality-person-re-identification",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -218,7 +218,7 @@
         {
           "node_type": "item",
           "title": "Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-Identification (ICCV 2017) [paper",
-          "description": "] [github]",
+          "description": "Zhongdao/VehicleReIDKeyPointData",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -242,7 +242,7 @@
         {
           "node_type": "item",
           "title": "RAM: A Region-Aware Deep Model for Vehicle Re-identification (ICME 2018) [paper",
-          "description": "] [github]",
+          "description": "liu-xb/RAM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -263,7 +263,7 @@
         {
           "node_type": "item",
           "title": "Viewpoint-Aware Attentive Multi-View Inference for Vehicle Re-Identification (CVPR 2018) [paper",
-          "description": "] [github]",
+          "description": "csyizhou/Vehicle-Re-ID",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -284,7 +284,7 @@
         {
           "node_type": "item",
           "title": "A Dual-Path Model With Adaptive Attention for Vehicle Re-Identification (ICCV 2019) [paper",
-          "description": "] [github]",
+          "description": "Pirazh/Vehicle_Key_Point_Orientation_Estimation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -316,7 +316,7 @@
             {
               "node_type": "item",
               "title": "Single-Camera and Inter-Camera Vehicle Tracking and 3D Speed Estimation based on Fusion of Visual and Semantic Features [paper",
-              "description": "] [github]",
+              "description": "zhengthomastang/2018AICity_TeamUW",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -337,7 +337,7 @@
             {
               "node_type": "item",
               "title": "Vehicle Re-Identification With the Space-Time Prior [paper",
-              "description": "] [github]",
+              "description": "cw1204772/AIC2018_iamai",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -364,7 +364,7 @@
             {
               "node_type": "item",
               "title": "Unsupervised Vehicle Re-Identification Using Triplet Networks [paper",
-              "description": "] [github]",
+              "description": "NVIDIAAICITYCHALLENGE/2018AICITY_LasPalmas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -392,7 +392,7 @@
             {
               "node_type": "item",
               "title": "(Rank-1) Multi-camera vehicle tracking and re-identification based on visual and spatial-temporal features [paper",
-              "description": "] [github]",
+              "description": "wzgwzg/AICity",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -413,7 +413,7 @@
             {
               "node_type": "item",
               "title": "(Rank-2) Multi-View Vehicle Re-Identification using Temporal Attention Model and Metadata Re-ranking [paper",
-              "description": "] [github]",
+              "description": "ipl-uw/2019-CVPR-AIC-Track-2-UWIPL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -440,7 +440,7 @@
             {
               "node_type": "item",
               "title": "(Rank-3) Vehicle Re-identification with Location and Time Stamps [paper",
-              "description": "] [github]",
+              "description": "Simon4Yan/feature_learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -461,7 +461,7 @@
             {
               "node_type": "item",
               "title": "(Rank-5) Multi-Camera Vehicle Tracking with Powerful Visual Features and Spatial-Temporal Cue [paper",
-              "description": "] [github]",
+              "description": "he010103/Traffic-Brain",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -482,7 +482,7 @@
             {
               "node_type": "item",
               "title": "(Rank-50) AI City Challenge 2019 – City-Scale Video Analytics for Smart Transportation [paper",
-              "description": "] [github]",
+              "description": "yrims/AIC19",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -503,7 +503,7 @@
             {
               "node_type": "item",
               "title": "(Rank-25) Vehicle Re-identification with Learned Representation and Spatial Verification and Abnormality Detection with Multi-Adaptive Vehicle Detectors for Traffic Video Analysis [paper",
-              "description": "] [github]",
+              "description": "mint44/ai19_track2_hcmus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -531,7 +531,7 @@
             {
               "node_type": "item",
               "title": "(Rank-1) Going Beyond Real Data: A Robust Visual Representation for Vehicle Re-Identification [paper",
-              "description": "] [github]",
+              "description": "layumi/AICIty-reID-2020",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -561,7 +561,7 @@
             {
               "node_type": "item",
               "title": "(Rank-3) Multi-Domain Learning and Identity Mining for Vehicle Re-Identification [paper",
-              "description": "] [github]",
+              "description": "heshuting555/AICITY2020_DMT_VehicleReID",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -587,7 +587,7 @@
             {
               "node_type": "item",
               "title": "(Rank-2) VOC-ReID: Vehicle Re-Identification Based on Vehicle-Orientation-Camera [paper",
-              "description": "] [github]",
+              "description": "Xiangyu-CAS/AICity2020-VOC-ReID",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -608,7 +608,7 @@
             {
               "node_type": "item",
               "title": "(General) Vehicle Re-Identification Based on Complementary Features [paper",
-              "description": "] [github]",
+              "description": "gggcy/AIC2020_ReID",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -629,7 +629,7 @@
             {
               "node_type": "item",
               "title": "(Rank-26) iTASK - Intelligent Traffic Analysis Software Kit [paper",
-              "description": "] [github]",
+              "description": "selab-hcmus/AI_City_2020",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -650,7 +650,7 @@
             {
               "node_type": "item",
               "title": "(General) Attribute-Guided Feature Extraction and Augmentation Robust Learning for Vehicle Re-Identification [paper",
-              "description": "] [github]",
+              "description": "zgcr/AICITY2020_track2_reid_BeBetter",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -676,7 +676,7 @@
             {
               "node_type": "item",
               "title": "(Rank-4) Large Scale Vehicle Re-Identification by Knowledge Transfer From Simulated Data and Temporal Attention [paper",
-              "description": "] [github]",
+              "description": "corner100/2020-aicitychallenge-IOSB-VeRi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -705,7 +705,7 @@
         {
           "node_type": "item",
           "title": "Vehicle Re-identification: exploring feature fusion using multi-stream convolutional networks [paper",
-          "description": "] [github]",
+          "description": "icarofua/vehicle-rear",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -733,7 +733,7 @@
         {
           "node_type": "item",
           "title": "Attributes Guided Feature Learning for Vehicle Re-identification [paper",
-          "description": "] [github]",
+          "description": "oneysmall/CVTC",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -760,7 +760,7 @@
         {
           "node_type": "item",
           "title": "Jakel21/vehicle-ReID-baseline",
-          "description": null,
+          "description": "Jakel21/vehicle-ReID-baseline",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -784,7 +784,7 @@
         {
           "node_type": "item",
           "title": "NVIDIAAICITYCHALLENGE/2018AICITY_Beihang",
-          "description": null,
+          "description": "NVIDIAAICITYCHALLENGE/2018AICITY_Beihang",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -811,7 +811,7 @@
         {
           "node_type": "item",
           "title": "bismex/Awesome-person-re-identification",
-          "description": null,
+          "description": "bismex/Awesome-person-re-identification",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -850,7 +850,7 @@
         {
           "node_type": "item",
           "title": "layumi/Vehicle_reID-Collection",
-          "description": null,
+          "description": "layumi/Vehicle_reID-Collection",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -883,7 +883,7 @@
         {
           "node_type": "item",
           "title": "JDAI-CV/VeRidataset",
-          "description": null,
+          "description": "JDAI-CV/VeRidataset",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -904,7 +904,7 @@
         {
           "node_type": "item",
           "title": "knwng/awesome-vehicle-re-identification",
-          "description": null,
+          "description": "knwng/awesome-vehicle-re-identification",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -927,7 +927,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:09:31.012Z",
+    "last_updated": "2026-10-03T04:29:47.620Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Vehicle Re-identification",
