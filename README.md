@@ -46,7 +46,7 @@ This is a repository for organizing articles related to person re-identification
 
 **2017**
 
-* Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-Identification (ICCV 2017) \[[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Orientation_Invariant_Feature_ICCV_2017_paper.pdf)] \[[github](https://github.com/Zhongdao/VehicleReIDKeyPointData) ⭐ 180 | 🐛 3 | 🌐 Python | 📅 2017-12-05]
+* Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-Identification (ICCV 2017) \[[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Orientation_Invariant_Feature_ICCV_2017_paper.pdf)] \[[github](https://github.com/Zhongdao/VehicleReIDKeyPointData) ⭐ 179 | 🐛 3 | 🌐 Python | 📅 2017-12-05]
 * Vehicle Re-identification by Fusing Multiple Deep Neural Networks (IPTA 2017) \[[paper](https://ieeexplore.ieee.org/document/8310090)]
 * Beyond Human-level License Plate Super-resolution with Progressive Vehicle Search and Domain Priori GAN (ACMMM 2017) \[[paper](https://dl.acm.org/doi/10.1145/3123266.3123422)]
 * Multi-modal Metric Learning for Vehicle Re-identification in Traffic Surveillance Environment (ICIP 2017) \[[paper](https://ieeexplore.ieee.org/abstract/document/8296683)]
@@ -206,4 +206,4 @@ This is a repository for organizing articles related to person re-identification
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._

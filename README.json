@@ -231,7 +231,7 @@
             "open_issues": 3,
             "owner": "Zhongdao",
             "repo": "VehicleReIDKeyPointData",
-            "stars": 180,
+            "stars": 179,
             "topics": [
               "vehicle-reid",
               "vehicle-reidentification"
@@ -927,7 +927,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T22:12:13.341Z",
+    "last_updated": "2026-10-06T10:40:24.023Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Vehicle Re-identification",
