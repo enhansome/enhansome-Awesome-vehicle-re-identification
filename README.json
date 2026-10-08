@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "bismex",
             "repo": "Awesome-person-re-identification",
-            "stars": 1364,
+            "stars": 1365,
             "topics": [
               "awesome",
               "awesome-list",
@@ -824,7 +824,7 @@
             "open_issues": 2,
             "owner": "bismex",
             "repo": "Awesome-person-re-identification",
-            "stars": 1364,
+            "stars": 1365,
             "topics": [
               "awesome",
               "awesome-list",
@@ -917,7 +917,7 @@
             "open_issues": 3,
             "owner": "knwng",
             "repo": "awesome-vehicle-re-identification",
-            "stars": 420,
+            "stars": 421,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:42.829Z"
@@ -927,7 +927,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T20:48:01.180Z",
+    "last_updated": "2026-10-08T20:51:30.445Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Vehicle Re-identification",
