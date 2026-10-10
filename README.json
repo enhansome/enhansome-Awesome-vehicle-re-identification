@@ -574,7 +574,7 @@
                 "open_issues": 6,
                 "owner": "heshuting555",
                 "repo": "AICITY2020_DMT_VehicleReID",
-                "stars": 221,
+                "stars": 222,
                 "topics": [
                   "aicity",
                   "pytorch",
@@ -863,7 +863,7 @@
             "open_issues": 2,
             "owner": "layumi",
             "repo": "Vehicle_reID-Collection",
-            "stars": 514,
+            "stars": 515,
             "topics": [
               "awesome",
               "awesome-list",
@@ -927,7 +927,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T20:20:22.365Z",
+    "last_updated": "2026-10-10T19:33:33.443Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Vehicle Re-identification",
