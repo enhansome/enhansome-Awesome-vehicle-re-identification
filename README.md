@@ -200,10 +200,10 @@ This is a repository for organizing articles related to person re-identification
 ## Reference
 
 * <https://github.com/bismex/Awesome-person-re-identification> ⭐ 1,366 | 🐛 2 | 📅 2024-06-18
-* <https://github.com/layumi/Vehicle_reID-Collection> ⭐ 515 | 🐛 2 | 📅 2025-03-13
+* <https://github.com/layumi/Vehicle_reID-Collection> ⭐ 516 | 🐛 2 | 📅 2025-03-13
 * <https://github.com/VehicleReId/VeRidataset> ⭐ 426 | 🐛 3 | 🌐 MATLAB | 📅 2022-07-07
 * <https://github.com/knwng/awesome-vehicle-re-identification> ⭐ 421 | 🐛 3 | 📅 2019-07-28
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._

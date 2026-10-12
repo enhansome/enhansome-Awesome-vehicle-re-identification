@@ -863,7 +863,7 @@
             "open_issues": 2,
             "owner": "layumi",
             "repo": "Vehicle_reID-Collection",
-            "stars": 515,
+            "stars": 516,
             "topics": [
               "awesome",
               "awesome-list",
@@ -927,7 +927,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T19:44:17.320Z",
+    "last_updated": "2026-10-12T22:36:56.508Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Vehicle Re-identification",
@@ -939,7 +939,7 @@
       "open_issues": 0,
       "owner": "bismex",
       "repo": "Awesome-vehicle-re-identification",
-      "stars": 162,
+      "stars": 163,
       "topics": [
         "awesome",
         "awesome-list",
