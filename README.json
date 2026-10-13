@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "bismex",
             "repo": "Awesome-person-re-identification",
-            "stars": 1366,
+            "stars": 1367,
             "topics": [
               "awesome",
               "awesome-list",
@@ -125,7 +125,7 @@
             "open_issues": 7,
             "owner": "PKU-IMRE",
             "repo": "VERI-Wild",
-            "stars": 231,
+            "stars": 230,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:42.829Z"
@@ -824,7 +824,7 @@
             "open_issues": 2,
             "owner": "bismex",
             "repo": "Awesome-person-re-identification",
-            "stars": 1366,
+            "stars": 1367,
             "topics": [
               "awesome",
               "awesome-list",
@@ -927,7 +927,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T22:36:56.508Z",
+    "last_updated": "2026-10-13T20:49:56.860Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Vehicle Re-identification",
