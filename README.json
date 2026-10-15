@@ -600,7 +600,7 @@
                 "open_issues": 5,
                 "owner": "Xiangyu-CAS",
                 "repo": "AICity2020-VOC-ReID",
-                "stars": 114,
+                "stars": 115,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:42.829Z"
@@ -863,7 +863,7 @@
             "open_issues": 2,
             "owner": "layumi",
             "repo": "Vehicle_reID-Collection",
-            "stars": 516,
+            "stars": 517,
             "topics": [
               "awesome",
               "awesome-list",
@@ -927,7 +927,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T19:43:46.902Z",
+    "last_updated": "2026-10-15T19:26:43.056Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Vehicle Re-identification",
