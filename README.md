@@ -115,7 +115,7 @@ This is a repository for organizing articles related to person re-identification
 **2018**
 
 * \[[AIC 2018](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Naphade_The_2018_NVIDIA_CVPR_2018_paper.pdf)] (CVPRW 2018)
-  * Single-Camera and Inter-Camera Vehicle Tracking and 3D Speed Estimation based on Fusion of Visual and Semantic Features \[[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Tang_Single-Camera_and_Inter-Camera_CVPR_2018_paper.pdf)] \[[github](https://github.com/zhengthomastang/2018AICity_TeamUW) ⭐ 555 | 🐛 26 | 🌐 C | 📅 2020-05-02]
+  * Single-Camera and Inter-Camera Vehicle Tracking and 3D Speed Estimation based on Fusion of Visual and Semantic Features \[[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Tang_Single-Camera_and_Inter-Camera_CVPR_2018_paper.pdf)] \[[github](https://github.com/zhengthomastang/2018AICity_TeamUW) ⭐ 554 | 🐛 26 | 🌐 C | 📅 2020-05-02]
   * Vehicle Re-Identification With the Space-Time Prior \[[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Wu_Vehicle_Re-Identification_With_CVPR_2018_paper.pdf)] \[[github](https://github.com/cw1204772/AIC2018_iamai) ⭐ 177 | 🐛 2 | 🌐 Python | 📅 2021-09-28]
   * Unsupervised Vehicle Re-Identification Using Triplet Networks \[[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Marin-Reyes_Unsupervised_Vehicle_Re-Identification_CVPR_2018_paper.pdf)] \[[github](https://github.com/NVIDIAAICITYCHALLENGE/2018AICITY_LasPalmas) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2021-09-26]
   * Video Analytics in Smart Transportation for the AIC’18 Challenge \[[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Chang_Video_Analytics_in_CVPR_2018_paper.pdf)]
@@ -206,4 +206,4 @@ This is a repository for organizing articles related to person re-identification
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
