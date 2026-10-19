@@ -204,7 +204,7 @@
             "open_issues": 2,
             "owner": "PKU-IMRE",
             "repo": "PKU-Vehicles",
-            "stars": 10,
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:42.829Z"
@@ -927,7 +927,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T18:17:13.588Z",
+    "last_updated": "2026-10-19T20:43:38.873Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Vehicle Re-identification",
