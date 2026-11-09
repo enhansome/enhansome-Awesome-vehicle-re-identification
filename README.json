@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "bismex",
             "repo": "Awesome-person-re-identification",
-            "stars": 1370,
+            "stars": 1371,
             "topics": [
               "awesome",
               "awesome-list",
@@ -544,7 +544,7 @@
                 "open_issues": 40,
                 "owner": "layumi",
                 "repo": "AICIty-reID-2020",
-                "stars": 464,
+                "stars": 465,
                 "topics": [
                   "aicity",
                   "cityflow",
@@ -824,7 +824,7 @@
             "open_issues": 2,
             "owner": "bismex",
             "repo": "Awesome-person-re-identification",
-            "stars": 1370,
+            "stars": 1371,
             "topics": [
               "awesome",
               "awesome-list",
@@ -863,7 +863,7 @@
             "open_issues": 2,
             "owner": "layumi",
             "repo": "Vehicle_reID-Collection",
-            "stars": 518,
+            "stars": 520,
             "topics": [
               "awesome",
               "awesome-list",
@@ -917,7 +917,7 @@
             "open_issues": 3,
             "owner": "knwng",
             "repo": "awesome-vehicle-re-identification",
-            "stars": 421,
+            "stars": 422,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:42.829Z"
@@ -927,7 +927,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T19:58:51.704Z",
+    "last_updated": "2026-11-09T23:51:51.436Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Vehicle Re-identification",

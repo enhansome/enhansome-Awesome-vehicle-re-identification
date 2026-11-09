@@ -4,7 +4,7 @@ This is a repository for organizing articles related to person re-identification
 
 **Other awesome re-identification**
 
-* [Awesome Person Re-Identification](https://github.com/bismex/Awesome-person-re-identification) ⭐ 1,370 | 🐛 2 | 📅 2024-06-18
+* [Awesome Person Re-Identification](https://github.com/bismex/Awesome-person-re-identification) ⭐ 1,371 | 🐛 2 | 📅 2024-06-18
 * [Awesome Cross-Modality Person Re-Identification](https://github.com/bismex/Awesome-cross-modality-person-re-identification) ⭐ 155 | 🐛 1 | 📅 2022-07-14
 
 **People who meet the following criteria are free to request a pull (pull request).**
@@ -145,7 +145,7 @@ This is a repository for organizing articles related to person re-identification
 **2020**
 
 * \[[AIC 2020](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Naphade_The_4th_AI_City_Challenge_CVPRW_2020_paper.pdf)] (CVPRW 2020)
-  * (Rank-1) Going Beyond Real Data: A Robust Visual Representation for Vehicle Re-Identification \[[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Zheng_Going_Beyond_Real_Data_A_Robust_Visual_Representation_for_Vehicle_CVPRW_2020_paper.pdf)] \[[github](https://github.com/layumi/AICIty-reID-2020) ⭐ 464 | 🐛 40 | 🌐 Python | 📅 2024-09-01]
+  * (Rank-1) Going Beyond Real Data: A Robust Visual Representation for Vehicle Re-Identification \[[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Zheng_Going_Beyond_Real_Data_A_Robust_Visual_Representation_for_Vehicle_CVPRW_2020_paper.pdf)] \[[github](https://github.com/layumi/AICIty-reID-2020) ⭐ 465 | 🐛 40 | 🌐 Python | 📅 2024-09-01]
   * (Rank-3) Multi-Domain Learning and Identity Mining for Vehicle Re-Identification \[[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/He_Multi-Domain_Learning_and_Identity_Mining_for_Vehicle_Re-Identification_CVPRW_2020_paper.pdf)] \[[github](https://github.com/heshuting555/AICITY2020_DMT_VehicleReID) ⭐ 222 | 🐛 6 | 🌐 Python | 📅 2020-05-09]
   * (Rank-2) VOC-ReID: Vehicle Re-Identification Based on Vehicle-Orientation-Camera \[[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Zhu_VOC-ReID_Vehicle_Re-Identification_Based_on_Vehicle-Orientation-Camera_CVPRW_2020_paper.pdf)] \[[github](https://github.com/Xiangyu-CAS/AICity2020-VOC-ReID) ⭐ 115 | 🐛 5 | 🌐 Python | 📅 2021-09-07]
   * (General) Vehicle Re-Identification Based on Complementary Features \[[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Gao_Vehicle_Re-Identification_Based_on_Complementary_Features_CVPRW_2020_paper.pdf)] \[[github](https://github.com/gggcy/AIC2020_ReID) ⭐ 47 | 🐛 1 | 🌐 Python | 📅 2020-05-12]
@@ -199,11 +199,11 @@ This is a repository for organizing articles related to person re-identification
 
 ## Reference
 
-* <https://github.com/bismex/Awesome-person-re-identification> ⭐ 1,370 | 🐛 2 | 📅 2024-06-18
-* <https://github.com/layumi/Vehicle_reID-Collection> ⭐ 518 | 🐛 2 | 📅 2025-03-13
+* <https://github.com/bismex/Awesome-person-re-identification> ⭐ 1,371 | 🐛 2 | 📅 2024-06-18
+* <https://github.com/layumi/Vehicle_reID-Collection> ⭐ 520 | 🐛 2 | 📅 2025-03-13
 * <https://github.com/VehicleReId/VeRidataset> ⭐ 426 | 🐛 3 | 🌐 MATLAB | 📅 2022-07-07
-* <https://github.com/knwng/awesome-vehicle-re-identification> ⭐ 421 | 🐛 3 | 📅 2019-07-28
+* <https://github.com/knwng/awesome-vehicle-re-identification> ⭐ 422 | 🐛 3 | 📅 2019-07-28
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
