@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "bismex",
             "repo": "Awesome-person-re-identification",
-            "stars": 1371,
+            "stars": 1370,
             "topics": [
               "awesome",
               "awesome-list",
@@ -104,7 +104,7 @@
             "open_issues": 3,
             "owner": "JDAI-CV",
             "repo": "VeRidataset",
-            "stars": 427,
+            "stars": 426,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:42.829Z"
@@ -544,7 +544,7 @@
                 "open_issues": 40,
                 "owner": "layumi",
                 "repo": "AICIty-reID-2020",
-                "stars": 465,
+                "stars": 464,
                 "topics": [
                   "aicity",
                   "cityflow",
@@ -824,7 +824,7 @@
             "open_issues": 2,
             "owner": "bismex",
             "repo": "Awesome-person-re-identification",
-            "stars": 1371,
+            "stars": 1370,
             "topics": [
               "awesome",
               "awesome-list",
@@ -863,7 +863,7 @@
             "open_issues": 2,
             "owner": "layumi",
             "repo": "Vehicle_reID-Collection",
-            "stars": 520,
+            "stars": 519,
             "topics": [
               "awesome",
               "awesome-list",
@@ -896,7 +896,7 @@
             "open_issues": 3,
             "owner": "JDAI-CV",
             "repo": "VeRidataset",
-            "stars": 427,
+            "stars": 426,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:42.829Z"
@@ -917,7 +917,7 @@
             "open_issues": 3,
             "owner": "knwng",
             "repo": "awesome-vehicle-re-identification",
-            "stars": 422,
+            "stars": 421,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:42.829Z"
@@ -927,7 +927,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:42:33.378Z",
+    "last_updated": "2026-11-19T22:46:29.763Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Vehicle Re-identification",
